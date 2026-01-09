@@ -1,0 +1,30 @@
+
+{
+  "name": "tom-body-visualizer",
+  "private": true,
+  "version": "1.2.0",
+  "description": "High-fidelity biometric projection and body composition visualizer.",
+  "author": "Md. Hassanul Hossain Tomal",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.170.0",
+    "typescript": "^5.0.0",
+    "vite": "^6.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "@vitejs/plugin-react": "^4.3.4"
+  }
+}

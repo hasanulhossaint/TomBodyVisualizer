@@ -1,0 +1,9 @@
+
+{
+  "name": "TOM BodyVisualizer",
+  "short_name": "TOM Visualizer",
+  "description": "A high-fidelity 2D/3D biometric projection engine for body composition visualization.",
+  "version": "1.2.0",
+  "author": "Md. Hassanul Hossain Tomal",
+  "requestFramePermissions": []
+}
